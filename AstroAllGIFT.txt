@@ -1,0 +1,778 @@
+// Quiz 01 - Fall 2012
+// After instruction on Position, Motion, Seasonal Stars, and Ecliptic
+// 2012 added Solar vs Sidereal Day
+// 2013 TOOK OUT SOLAR/SIDEREAL. ADDED MOON
+
+// 1a
+From high above the north pole of the earth looking downward, the earth is {
+=rotating counter-clockwise.
+~rotating clockwise.
+~not rotating.
+~rotating horizontally.
+}
+
+// 1b
+From very high above the north pole of the Earth, the Earth {
+=is orbiting the Sun counter-clockwise.
+~is orbiting the Sun clockwise.
+~is stationary relative to the Sun.
+~is orbiting the Sun vertically.
+}
+
+// 2a
+You are at a mid-northern latitude. One night you see a star rising on the horizon directly east. When will that star set? {
+=about 12 hours later.
+~less than 12 hours later.
+~more than 12 hours later.
+~There is no answer because this is an impossible situation.
+}
+
+// 2b
+You are at a mid-northern latitude. One night you see a star rising on the horizon directly east. Where would you look to see the star set? {
+=on the horizon directly west.
+~on the horizon in the northwest.
+~on the horizon in the southwest.
+~on the horizon directly south.
+}
+
+// 3a
+What component of Earth's motion causes the stars to rise and set on a daily basis? {
+=The Earth's rotation about its axis.
+~The tilt of its rotation axis.
+~The Earth's orbit around the Sun.
+~The orbit of the Moon around the Earth.
+}
+
+// 3b
+What component of Earth's motion causes the stars to rise earlier every day? {
+=The Earth's orbit around the Sun.
+~The tilt of its rotation axis.
+~The Earth's rotation about its axis.
+~The orbit of the Moon around the Earth.
+}
+
+// 4a
+One night at midnight you see the constellation Taurus directly south. One month later at midnight {
+=Taurus would be in the southwest sky.
+~Taurus would be in the same position.
+~Taurus would be in the southeast sky.
+~Taurus would still be directly south, but higher in the sky.
+}
+
+// 4b
+One night at midnight you see the constellation Taurus directly south. Two hours later {
+=Taurus would be in the southwest sky.
+~Taurus would be in the same position.
+~Taurus would be in the southeast sky.
+~Taurus would still be directly south, but higher in the sky.
+}
+
+// 5a,b
+The ecliptic is the imaginary line in the sky {
+=that the Sun follows through the stars.
+~that the Moon follows through through the stars.
+~from directly south on the horizon, straight overhead, to directly north on the horizon.
+~from directly east on the horizon, straight overhead, to directly west on the horizon.
+}
+
+// 6a
+One evening you see the star Betelgeuse rise directly east at 8:00 PM. The next evening Betegeuse will rise {
+=at 7:56 PM.
+~at 8:04 PM.
+~at the same time.
+~at 8:50 PM.
+}
+
+// 6b
+One evening you see the star Altair set directly west at 8:00 PM. The next evening Altair will set {
+=at 7:56 PM.
+~at 8:04 PM.
+~at the same time.
+~at 8:50 PM.
+}
+
+// 7a,b
+The cause of the Earth's seasons is {
+=the tilt of the Earth's axis in its orbit.
+~that the Earth is closer to the Sun in the summer and farther in the winter.
+~the Earth moves slower in its orbit in the winter and faster in the summer.
+~the Earth moves faster in its orbit in the winter and slower in the summer.
+}
+
+// 8a
+During waxing crescent phase, how much of the Moon's disk appears to be lit from the Earth's perspective? {
+=Less than half.
+~All.
+~None.
+~Half.
+}
+
+// 8b
+During waning gibbous phase, how much of the Moon's disk appears to be lit from the Earth's perspective? {
+=More than half.
+~All.
+~None.
+~Less than half.
+}
+
+// 9a
+Which phase of the Moon rises in the east just as the Sun sets in the west? {
+=Full.
+~New.
+~Gibbous.
+~First quarter.
+}
+
+// 9b
+Which phase of the Moon sets in the west at the same time as the Sun sets in the west? {
+=New.
+~Full.
+~Gibbous.
+~First quarter.
+}
+
+// 10a
+What phase of the Moon immediately follows the new moon? {
+=Waxing crescent.
+~Waning crescent.
+~Full moon.
+~First quarter.
+}
+
+// 10b
+What phase of the Moon immediately follows the full moon? {
+~Waxing gibbous.
+=Waning gibbous.
+~New moon.
+~Last quarter.
+}
+// 1
+A planet moving in retrograde motion will, over the course of one night, {
+=rise in the eastern sky and set in the western sky
+~move randomly, as planets move differently than the stars
+~rise in the western sky and set in the eastern sky
+~not move at all, as planets do not move with the stars
+}
+
+// 2
+A planet is moving in retrograde motion. Over the course of several weeks, how will the planet appear to move relative to the stars? {
+=east to west.
+~west to east.
+~It will not move at all, as planets do not move with respect to the stars.
+~It will move randomly, as planets move differently than the stars.
+}
+
+// 3
+A planet is moving in normal or prograde motion. Over the course of several weeks, how will the planet appear to move relative to the stars? {
+=west to east
+~east to west
+~It will not move at all, as planets do not move with respect to the stars
+~It will move randomly, as planets move differently than the stars
+}
+
+// 4
+When is the best time to observe a superior planet? {
+=When it is at opposition to the Sun.
+~When it is in inferior conjunction with the Sun.
+~When it is in superior conjunction with the Sun.
+~When it is at greatest elongation to the Sun.
+}
+
+// 5
+When is the best time to observe an inferior planet? {
+=When it is at greatest elongation to the Sun.
+~When it is at opposition to the Sun.
+~When it is in inferior conjunction with the Sun.
+~When it is in superior conjunction with the Sun.
+}
+
+// 6
+A planet farther from the Sun than Earth is in retrograde motion{
+=when it is at opposition.
+~when it is in conjunction with the Sun.
+~when it is at quadrature with the Sun.
+~never.
+}
+
+// 7
+Ptolemy's model (the ancient Greek) for the solar system was {
+=geocentric.
+~heliocentric.
+~based on gravity.
+~based on ellipses.
+}
+
+// 8
+Copernicus' model for the solar system was {
+=heliocentric.
+~geocentric.
+~based on gravity.
+~based on ellipses.
+}
+
+// 9
+Galileo discovered {
+=that the Moon has craters.
+~Saturn's ring.
+~canals on Mars.
+~a new planet.
+}
+
+// 10
+Galileo discovered {
+=four moons orbiting Jupiter.
+~four moons orbiting Saturn.
+~a ring around Jupiter.
+~Venus has a moon.
+}
+
+// 11
+Kepler's first law has to do with {
+=the shapes of the orbits of the planets.
+~the speed the planets move in their orbits.
+~the relationship between the size of a planet's orbit and its period.
+~action and reaction forces.
+}
+
+// 12
+Kepler's second law has to do with {
+~the shapes of the orbits of the planets.
+=the speed the planets move in their orbits.
+~the relationship between the size of a planet's orbit and its period.
+~action and reaction forces.
+}
+
+// 13
+Kepler's third law has to do with {
+~the shapes of the orbits of the planets.
+~the speed the planets move in their orbits.
+=the relationship between the size of a planet's orbit and its period.
+~action and reaction forces.
+}
+
+// 14
+Kepler's law about the speed of the planets in their orbits states that {
+=a planet sweeps out equal areas from the Sun in equal amounts of time.
+~the farther a planet is from the Sun the faster it moves in its orbit.
+~a planet orbits 90 degrees around the Sun in one half of its year.
+~a planet's speed cubed is equal to its distance from the sun squared.
+}
+
+// 15
+According to Newton's law of gravity, if two masses are moved closer together,{
+=the gravitational attraction becomes stronger.
+~the gravitational attraction becomes weaker.
+~the gravitational attraction does not change.
+~do not choose this answer.
+}
+
+// 16
+According to Newton's law of gravity, a larger mass,{
+=has more gravitational attraction than a smaller mass.
+~has less gravitational attraction than a smaller mass.
+~has the same gravitational attraction as a smaller mass.
+~do not choose this answer.
+}
+
+// 17
+According to Newton's law of gravity, if two masses are moved farther apart, {
+=the gravitational attraction becomes weaker.
+~the gravitational attraction becomes stronger.
+~the gravitational attraction does not change.
+~do not choose this answer.
+}
+
+// 18
+The law that states "F=ma" is {
+=Newton's second law of motion.
+~Newton's first law of motion.
+~Newton's law of gravity.
+~Newton's third law of motion.
+}
+
+// 19
+The law that states "an object in motion remains in motion" is {
+=Newton's first law of motion.
+~Newton's law of gravity.
+~Newton's second law of motion.
+~Newton's third law of motion.
+}
+
+// 20
+The law that states "for every force there is an equal and opposite reaction force" is {
+=Newton's third law of motion.
+~Newton's law of gravity.
+~Newton's first law of motion.
+~Newton's second law of motion.
+}
+
+// Extra
+// Kepler discovered {
+// =planets orbit the Sun in ellipses.
+// ~planets orbit the Sun in parabolas.
+// ~planets orbit the Sun in circles.
+// ~planets orbit the Sun in epicycles.
+// }
+
+// EOF
+// 1
+The main reason the inner planets are rocky is {
+=the heat of the young sun drove the gasses away from the inner solar system.
+~the rotation of the young sun spun the gasses away from the inner solar system.
+~rocks were attracted to the sun more strongly than gasses.
+~rocks were held close to the sun because of magnetic effects.
+}
+
+// 2
+The planet closest to the Sun is {
+=Mercury.
+~Venus.
+~Earth.
+~Mars.
+}
+
+// 3
+The planet with a heavily cratered surface is {
+=Mercury.
+~Venus.
+~Earth.
+~Mars.
+}
+
+// 4
+Which planet's surface is the hottest?{
+~Mercury.
+=Venus.
+~Earth.
+~Mars.
+}
+
+// 5
+The planet with a runaway greenhouse effect and is too hot for life is {
+=Venus.
+~Mercury.
+~Earth.
+~Mars.
+}
+
+// 6
+The atmosphere of Venus consists mostly of {
+=carbon dioxide with sulphuric acid clouds.
+~oxygen.
+~nitrogen.
+~20% oxygen and 80% nitrogen.
+}
+
+// Earth
+// 7
+The Tectonic Plate theory claims that the surface of the Earth{
+=consists of rigid "plates" floating and moving on the liquid mantle.
+~consists of "plates" that lock together like a jigsaw puzzle without moving.
+~is shaped by subterranean plates that melt and create volcanoes.
+~consists of rigid "plates" that were once joined before the ocean had water.
+}
+
+// 8
+A widely held theory is that the Moon's origin is that it resulted from{
+=a collision of a Mars-sized body and Earth.
+~the Earth gravitationally capturing a large planetesimal.
+~planetesimals gravitationally accreting in orbit around the Earth.
+~God having leftover material after making the Earth.
+}
+
+// 9
+The atmosphere of the Earth is about {
+=80% nitrogen and 20% oxygen.
+~80% oxygen and 20% nitrogen.
+~80% oxygen and 20% carbon dioxide.
+~45% oxygen, 45% nitrogen, and 10% carbon dioxide.
+}
+
+// Mars
+// 10
+The planet currently being explored by rovers is {
+=Mars.
+~Mercury.
+~Venus.
+~Jupiter.
+}
+
+// 11
+The planet that occasionally has global dust storms covering most of its surface is{
+=Mars.
+~Earth.
+~Venus.
+~the Moon.
+}
+
+// 12
+Which moon of Jupiter has active volcanos? {
+~Callisto.
+=Io.
+~Ganymede.
+~Europa.
+}
+
+// 13
+Which moon of Jupiter may have a liquid water ocean beneath an ice cap? {
+~Callisto.
+~Io.
+~Ganymede.
+=Europa.
+}
+
+// 14
+The largest planet is {
+=Jupiter.
+~Saturn.
+~Earth.
+~Uranus.
+}
+
+// 15
+Jupiter's Great Red Spot is {
+=a long lasting storm in Jupiter's atmosphere.
+~a cool gas trapped by magnetic fields in Jupiter's atmosphere.
+~a large, floating iceberg in Jupiter's atmosphere.
+~the remnants of a moon that collided with Jupiter.
+}
+
+
+// 16
+The second largest planet in the Solar System is{
+=Saturn.
+~Jupiter.
+~Uranus.
+~Neptune.
+}
+
+// 17
+The atmosphere of the gas giant planets is composed mostly of {
+=hydrogen.
+~helium.
+~water vapor.
+~methane.
+}
+
+
+// 18
+Which characteristic keeps Pluto from being a planet? {
+=It does not dominate its orbit.
+~It is too far from the Sun.
+~Its moon is too large.
+~It is not spherical.
+}
+
+// 19
+An asteroid is {
+=a small rocky body orbiting the Sun in the inner solar system.
+~a small icy body orbiting the Sun in the inner solar system.
+~a remnant of an exploded planet.
+~a rocky body that streaks through the atmosphere and lands on the Earth.
+}
+
+// 20
+A "shooting star" is not a star, it is {
+=a meteor from space streaking through the Earth's atmosphere.
+~a galaxy. 
+~an actor like Bruce Willis.
+~a bright terrestrial planet.
+}
+
+
+// 21
+A comet is{
+=an icy body that develops a cloud of dust and gas when it approaches the sun.
+~a meteoroid that leaves a vapor trail in the Earth's atmosphere.
+~a rocky body that orbit close to the Sun during part of its orbit.
+~an rocky body that orbits the Sun past the orbit of Neptune.
+}
+
+// EOF// 1
+The Sun is a {
+~blast of incidental glass.
+~pass that hit the frozen grass.
+~lass who's in the tackle's grasp.
+=mass of incandescent gas.
+}
+
+// 2
+The sunlight comes from our own Sun's {
+~comedic in frenzy.
+~Tom's sick effigy.
+~dike in Zuider Zee.
+=atomic energy.
+}
+
+// 3
+If the Sun were hollow {
+~a trillion hearths would lit its side.
+~a billion Earths would fit inside.
+~a thousand Earths would fit inside.
+=a million Earths would fit inside.
+}
+
+// 4
+The Sun is a gigantic nuclear furnace where {
+=hydrogen is built into helium.
+~helium is built into hydrogen.
+~there is a fire.
+~uranium is built into lead.
+}
+
+// 5
+The Sun is so hot that {
+=everything on it is a gas.
+~everything on it is a gas.
+~everything on it is a gas.
+~everything on it is a gas.
+}
+
+// 6
+According to the song "Why Does the Sun Shine", the Sun is {
+=just a middle-sized star.
+~just a very small star.
+~a very large star.
+~just a middle-aged star.
+}
+
+// 7
+Why does the Sun look so small? {
+=Because it's about 93 million miles away.
+~Because it IS small.
+~Because it's about 240 thousand miles away.
+~Because it's about 93 billion light years away.
+}
+
+// 8
+What elements are involved in the main nuclear reactions in the Sun?
+{
+=Hydrogen, helium, carbon, and nitrogen.
+~Only hydrogen and helium.
+~Copper, Iron, and Aluminum.
+~Uranium, plutonium, and many others.
+}
+
+// 9
+The Sun is powered by {
+=the nuclear fusion of hydrogen into helium.
+~the nuclear fusion of helium into hydrogen.
+~the chemical burning of hydrogen into helium.
+~the nuclear fission of helium into hydrogen.
+}
+
+// 10
+The approximate temperature of the core of the sun is {
+=10 million degrees.
+~10 billion degrees.
+~93 million degrees.
+~4.5 billion degrees
+}
+
+// 11
+The temperature of the surface of the Sun is about {
+=6,000 degrees.
+~10 million degrees.
+~10 billion degrees.
+~600 degrees.
+}
+
+// 12
+The visible surface of the Sun is the {
+~corona.
+=photosphere.
+~radiation zone.
+~chromosphere.
+}
+
+// 13
+The distance to the nearest star other than the Sun, is about {
+=4.3 light years.
+~30,000 light years.
+~93 million light years.
+~1600 light years.
+}
+
+// 14
+The distance to star A is 1 parsec, and the distance to star B is 2 parsec. Which star has a larger parallax {
+=Star A
+~Star B
+~not an answer
+~not an answer
+}
+
+// 15
+Star C has an apparent magnitude of 2, and Star D has an apparent magnitude of 0. Which star is brighter from Earth?{
+=Star D.
+~Star C.
+~Neither star.
+~Not an answer.
+}
+
+// 16
+Star E has an apparent magnitude of 5 and an absolute magnitude of 3. Its distance from the Earth is {
+=more than 10 parsecs.
+~less than 10 parsecs.
+~exactly 10 parsecs.
+~undetermined.
+}
+
+// 17
+Star F has an apparent magnitude of 3 and an absolute magnitude of 5. Its distance from the Earth is {
+=more than 10 parsecs.
+~less than 10 parsecs.
+~exactly 10 parsecs.
+~undetermined.
+}
+
+// 18
+The hottest spectral class of stars is {
+~M.
+=O.
+~B.
+~A.
+}
+
+// 19
+The coolest spectral class of stars is {
+=M.
+~O.
+~B.
+~A.
+}
+
+// 20
+The Hertzsprung-Russell diagram plots the {
+=luminosity versus spectral type of stars.
+~distance versus luminosity for stars.
+~luminosity versus mass for stars.
+~lifetime versus spectral type for stars.
+}
+
+// EOF// 1
+The Milky Way galaxy is {
+=a part of the Local Group of galaxies.
+~a part of the Hercules Cluster of galaxies.
+~not a part of a cluster of galaxies.
+~a candy bar is made of chocolate-malt nougat topped with caramel and covered with milk chocolate.
+}
+
+// 2
+The distance from the Sun to the center of the galaxy is about{
+~3000 ly.
+~300 ly.
+=30,000 ly.
+~0 ly, because we are at the center!
+}
+
+// 3
+The diameter of the Milky Way's disk is about {
+~3,000 ly.
+~30,000 ly.
+~300,000  ly.
+=100,000  ly.
+}
+
+// 4
+Astronomers think that at the center of the Milky Way galaxy is{
+~another galaxy.
+=a super-massive black hole.
+~our Solar System.
+~a globular cluster.
+}
+
+// 5
+According to the Galaxy Song, the solar system orbits galactic central point and {
+=We go 'round every 200 million years.
+~We go in every 200 million years.
+~We rebound every 200 billion years.
+~We resound every 93 million years.
+}
+
+// 6
+According the the Galaxy Song, why should we pray for intelligent life somewhere up in space? {
+='Cause I'm afraid that we've been cheated here on Earth.
+~'Cause I'm afraid that we've been bleating here on Earth.
+~'Cause I've played that weevil Ben right here on Earth.
+~'Cause I'm afraid that we're depleted here on Earth.
+}
+
+// 7
+According to the Galaxy Song, how far does the Earth travel in a day? {
+=a million miles.
+~forty thousand miles.
+~200 million light years.
+~30,000 light years.
+}
+
+// 8
+How does the Galaxy Song describe the Universe?{
+=Amazing and expanding.
+~Boring and contracting.
+~Anthropocentric.
+~Geocentric.
+}
+
+// 9
+Hubble's law states that {
+=the farther away a galaxy, the faster it is moving away.
+~the bigger the galaxy, the faster it is moving.
+~that all galaxies are moving at the same speed.
+~the universe began in a Big Bang.
+}
+
+// 10
+The study of the universe as a whole is called {
+=cosmology.
+~universology.
+~cosmetology.
+~proctology.
+}
+
+// 11
+The Big Bang is the {
+=hot, rapidly expanding event that began space and time.
+~inflationary phase of cosmic expansion.
+~hot cosmic deflation that ends space and time.
+~creation event that created the supermassive black hole at the center of the Milky Way.
+}
+
+// 12
+The current estimate for the age of the universe is {
+=13.7 billion years.
+~13.7 million years.
+~4.5 billion years.
+~4.5 million years.
+}
+
+// 13
+After primordial nucleosynthesis was complete, the composition of the universe was {
+=75% hydrogen, 25% helium.
+~75% helium, 25% hydrogen.
+~75% hydrogen, 25% deuterium.
+~75% helium, 25% lithium.
+}
+
+// 14
+Dark energy has been proposed to explain {
+=the accelerating expansion of the universe.
+~the rotation curve of many spiral galaxies.
+~the black hole at the center of the Milky Way galaxy.
+~the start of the Big Bang.
+}
+
+// 15
+Dark matter has been proposed to explain {
+~the accelerating expansion of the universe.
+=the "missing mass" problem of galaxies and galaxy clusters.
+~the black hole at the center of the Milky Way galaxy.
+~the start of the Big Bang.
+}
+
+// 16
+An important piece of evidence for the Big Bang is {
+=the Cosmic Microwave Background.
+~the Cosmic Ultraviolet Background.
+~that space and time are static.
+~that space and time are contracting.
+}

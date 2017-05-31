@@ -1,0 +1,202 @@
+The Sun is very much larger than any other planet in our Solar System.{
+=True
+~False
+~Not an answer
+~Not an answer
+}
+
+The time it takes the Earth to revolve once around the Sun is approximately one {
+~day
+~month
+~week
+=year
+}
+
+Which planet is the largest amongst the terrestrial/rocky planets?{
+~Pluto
+~Mercury
+~Mars
+=Earth
+}
+
+Which planet in our Solar System spins fastest?{
+~Saturn
+~Earth
+~Mercury
+=Jupiter
+}
+
+During what phase of the Moon can we observe a total solar eclipse?{
+=New Moon
+~Full Moon
+~First Quarter
+~Last Quarter
+}
+
+Which of the following arrangement represent the phase mentioned in Question 5 above?{
+~Earth, Sun, Moon
+=Earth, Moon, Sun
+~Sun, Earth, Moon
+~Moon, Earth, Sun
+}
+
+The Moon’s faint outer shadow that falls upon the Earth is referred to as the{
+~Full moon
+~Umbra
+=Penumbra
+~New moon
+}
+
+Which of the following is the best approximate shape of our Solar System?{
+=Flat disk
+~Helix
+~Spiral
+~Ball shaped
+}
+
+An area that separates terrestrial planets from outer planets is referred to as the{
+~Kuiper belt
+~Oort belt
+=Asteroid belt
+~Terrestrial belt
+}
+
+Approximately by what angle is the Earth's rotation axis tilted, to the plane of its orbit around the Sun?{
+~25.3 degrees
+~33.5 degrees
+=23.5 degrees
+~35.3 degrees
+}
+
+The rotation of the Earth on its axis to the plane of its orbit around the Sun causes what to occur.{
+~Seasons
+=Day & Night
+~Days
+~Nights
+}
+
+Which one of the following does not belong to the group below?{
+~Earth
+~Mars
+~Venus
+=Jupiter
+}
+
+Which spacecraft, launched in 2006 has flown by Pluto in July 2015?{
+~Spirit
+=New Horizon
+~Space shuttle
+~Opportunity
+}
+
+Which of the following stars are the coolest?{
+~Yellow
+=Red
+~Blue
+~White
+}
+
+Which of the following planets in our Solar System has the least number of natural satellites?{
+~Earth
+~Saturn
+~Uranus
+=Mercury
+}
+
+What does the unit “light year” measure:{
+~Volume
+=Distance
+~Mass
+~Brightness
+}
+
+Which two main gases can be found in the Sun?{
+~Oxygen & Hydrogen
+=Hydrogen & Helium
+~Hydrogen & Lithium
+~Oxygen & Lithium
+}
+
+From which Observatory did astronomers discover the closest star to the Earth after the Sun?{
+~National Aeronautics and Space Administration (NASA)
+=South African Astronomical Observatory
+~Johannesburg
+~Boyden
+}
+
+How many natural satellites does planet Earth have?{
+~2
+~64
+~31
+=1
+}
+
+The scientific name for a shooting star is {
+=Meteor
+~Meteoroid
+~Comet
+~Satellite
+}
+
+If the planets Venus, Earth and Mars are arranged according to increasing day lengths, the sequence will be{
+~Venus, Earth, Mars
+~Mars, Venus, Earth.
+~Venus, Mars, Earth
+=Earth, Mars, Venus.
+}
+
+When the Earth orbits the Sun, the North Pole always points in the same direction.{
+=True
+~False
+~Not an answer
+~Not an answer
+}
+
+When it rotates along its axis, the Earth rotates from {
+=East to West
+~West to East
+~West to North
+~East to North
+}
+
+Earth’s orbit around the Sun takes much longer than its rotation on its axis.{
+=True
+~False
+~Not an answer
+~Not an answer
+}
+
+Which of the following is the hottest planet in our Solar System?{
+=Venus
+~Mercury
+~Mars
+~Jupiter
+}
+
+On one of the following planets the surface is extremely hot during the day and icy cold at night. Which one is that?{
+~Earth
+~Jupiter
+=Mercury
+~Uranus
+}
+
+What are the rings of Saturn made up of?{
+=Ice and dust
+~Gas and dust
+~Dust and water droplets
+~Rocks and dust
+}
+
+During his time in space, Mark Shuttleworth spent time at the {
+~Moon
+~Baikour cosmodrome
+=International Space Station
+~Russian Space Station
+}
+
+Stars and planets are born from {
+~Other stars
+=Cloud of gas and dust
+~Cloud of gas
+~Rocks
+}
